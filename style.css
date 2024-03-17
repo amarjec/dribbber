@@ -567,8 +567,8 @@ html, body {
 }
 #footer {
     width: 100%;
-    height: 35vh;
-    padding: 2vw 4vw;
+    height: 30vh;
+    padding: 2vw 5vw;
     /* background-color: yellow; */
     border-top: 1px solid black;
 }
@@ -613,6 +613,31 @@ html, body {
 }
 
 
+#fbtm {
+    margin-top: 12vh;
+    width: 100%;
+    height: 15%;
+    /* background-color: orchid; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#fbtm a {
+    font-size: 1.07vw;
+    color: black;
+    text-decoration: none;
+    font-family: "Gilroy";
+}
+#fbtml {
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+}
+#fbtmr {
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+}
 
 
 button:hover {

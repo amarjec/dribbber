@@ -538,7 +538,7 @@ html, body {
     /* background-color: cyan;  */
     /* padding: .5vw 0vw; */
     display: inline-block;
-    /* animation-name: move; */
+    animation-name: move;
     animation-duration: 15s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
